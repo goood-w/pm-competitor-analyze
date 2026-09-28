@@ -1,0 +1,7 @@
+interface:
+  display_name: "竞品分析"
+  short_description: "面向产品决策的证据化竞品分析文档"
+  brand_color: "#2563EB"
+  default_prompt: "Use $pm-competitor-analyze to turn my competitors, source materials, and decision question into a concise competitor analysis report."
+policy:
+  allow_implicit_invocation: true
